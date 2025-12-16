@@ -9,14 +9,14 @@ with open("requirements.txt", "r") as f:
 
 
 setup(
-    name='maestro_lightning',
+    name='barrier',
     version='1.0.0',
     license='GPL-3.0',
     #description='novacula orquestrator',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    url='https://github.com/petrobras-lps-ufrj-br/dynamic-barrier',
+    url='https://github.com/petrobras-lps-ufrj-br/barrier',
     keywords=[],
     install_requires=requirements,
     classifiers=[

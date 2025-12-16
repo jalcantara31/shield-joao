@@ -1,9 +1,6 @@
 loguru
 jupyterlab
-py-cpuinfo
-GPUtil
-nvsmi
 rich_argparse
 tabulate
 expand_folders
-filelock
+prefect
