@@ -1,5 +1,5 @@
 
-export VIRTUALENV_NAMESPACE='maestro_lightning-env'
+export VIRTUALENV_NAMESPACE='.barrier-env'
 export LOGURU_LEVEL="DEBUG"
 export VIRTUALENV_PATH=$PWD/$VIRTUALENV_NAMESPACE
 
