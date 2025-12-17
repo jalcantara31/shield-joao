@@ -49,3 +49,7 @@ from .runners import *
 from . import text 
 __all__.extend( text.__all__ )
 from .text import *
+
+from . import clients 
+__all__.extend( clients.__all__ )
+from .clients import *
