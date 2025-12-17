@@ -8,3 +8,4 @@ cognite-sdk
 numpy
 pandas
 scikit-learn
+atlas-mpl-style
