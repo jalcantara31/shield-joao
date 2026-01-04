@@ -2,7 +2,7 @@ __all__ = ["Cognite"]
 
 import pandas as pd
 
-from barrier.exceptions import CogniteConnectionError
+from shield.exceptions import CogniteConnectionError
 from datetime import datetime
 from typing import List, Tuple
 from pprint import pprint
